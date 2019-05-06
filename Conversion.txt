@@ -1,0 +1,16 @@
+Conversion Report:
+Created by DWG TrueView DWG Convert понедельник, 6 мая 2019 г., 20:01.
+
+Conversion Summary
+------------------
+Conversion File Format:  AutoCAD 2007/LT 2007 Drawing Format
+Conversion package type: In-place (overwrite files)
+Converted DWG files:     1
+Recovered DWG files:     0
+Conversion errors:       0
+
+
+Converted Files
+---------------
+Root Drawings:
+	D:\bsuir\withWiresTest.dwg
